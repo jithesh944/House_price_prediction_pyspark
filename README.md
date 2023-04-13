@@ -1,4 +1,4 @@
-# CW_7082_Code
+# House price prediction 
 
 Linear regression on Boston housing data using Pyspark and tableau
 
